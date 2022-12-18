@@ -40,3 +40,28 @@ img.cards-image {
 .leaderboard {
 	text-align: center;
 }
+
+@media only screen and (max-device-width: 767px) {
+  .centered-container.w-container {
+    text-align: center !important;
+  }
+
+  .heading-4 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+
+  .description_pop {
+    padding: 0px 10px 0px 10px;
+    line-height: 1.5em;
+  }
+
+  .cards-grid-container {
+    grid-template-rows: none !important;
+    padding-bottom: 0px !important;
+  }
+
+  h3 {
+    font-size: 1.4em;
+  }
+}
