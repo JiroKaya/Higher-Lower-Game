@@ -33,9 +33,6 @@
           <a href="#" class="nav_link here w-nav-link">Play</a>
           </div>
         </nav>
-        <div class="w-nav-button">
-          <div class="w-icon-nav-menu"></div>
-        </div>
       </div>
     </div>
   </div>
