@@ -1,0 +1,42 @@
+#score_number {
+  font-size: 2.5em;
+}
+
+#score_title {
+  font-size: 1.2em;
+  opacity: 0.75;
+}
+
+#explanation {
+  color: #404040;
+  margin-bottom: 50px;
+  font-size: 1.1em;
+}
+
+.cards-grid-container {
+  margin-bottom: 2rem;
+  grid-template-columns: 1fr 1fr !important;
+}
+
+img.cards-image {
+  cursor: pointer;
+}
+
+.text {
+	color: #ffffff;
+}
+
+.cards-image-mask {
+	text-align: center !important;
+}
+
+.description_pop {
+	font-size: 1.1em;
+	margin-top: 0.8em;
+	margin-bottom: 2em;
+	color: #BFBFBF;
+}
+
+.leaderboard {
+	text-align: center;
+}
